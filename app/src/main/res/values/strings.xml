@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskList</string>
+    <string name="task_name_edit_text_hint">Task name</string>
+    <string name="priority">Priority Task</string>
+    <string name="search">Search Tasks</string>
+    <string name="sort_tasks">Sort By</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_date_created">Sort by date</string>
+    <string name="hide_all_completed">Hide completed tasks</string>
+    <string name="delete_completed_tasks">Delete completed tasks</string>
+</resources>
